@@ -1,0 +1,25 @@
+.header{
+    top:0px;
+    left:0;
+    padding:1rem;
+    position: fixed;
+    width:100%;
+    height:5rem;;
+    z-index:5;
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;    
+    color:white;
+    flex:1 1 auto;
+    background-color:rgba(114, 219, 214, 0.897);
+
+}
+.header span {
+    margin:0px;
+    padding:8px;
+    display:inline;
+    cursor:pointer;
+}
+.header p{
+    cursor:pointer;
+}
